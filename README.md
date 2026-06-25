@@ -1,12 +1,8 @@
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=Hi%20Ahmed%20Mehmood&fontSize=52&fontColor=00C9A7&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Teaching%20Assistant&descSize=18&descColor=ffffff&animation=fadeIn&stroke=00C9A7&strokeWidth=1)](https://github.com/Smmedy06)
+[![banner](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Shahram%20Munsaf&fontSize=60&fontColor=00C9A7&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20Undergraduate&descSize=18&descColor=ffffff&animation=fadeIn&stroke=00C9A7&strokeWidth=1)](https://github.com/Smmedy06)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=700&height=130&lines=%24+whoami+--+Full-Stack+Dev+%7C+AI+Engineer+%7C+PUCIT+Semester+6;%24+stack+--+MERN+%7C+Python+%7C+FastAPI+%7C+Spring+Boot+%7C+LLM+Integration;%24+building+--+CineSynth+%3A+AI-powered+video+condensation+system;%24+role+--+TA+%40+PUCIT+for+DSA+%26+COAL;%24+status+--+Open+to+Internships+%26+FYP+Collaborations)](https://github.com/Smmedy06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&width=720&height=120&lines=Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot+%7C+FastAPI;Building+intelligent+systems+with+Agentic+AI+%26+LLM+integration;Teaching+Assistant+%40+PUCIT+%E2%80%94+DSA+%26+COAL;CGPA+3.81+%2F+4.0+%E2%80%94+PUCIT+Semester+6;Open+to+internships+in+Software+Engineering+%26+AI)](https://github.com/Smmedy06)
 
 </div>
 
@@ -14,18 +10,18 @@
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/BSCS-Punjab%20University%20College%20of%20IT-00C9A7?style=flat-square&logo=graduation-cap&logoColor=white)
-![University](https://img.shields.io/badge/PUCIT-Lahore%2C%20Pakistan-1F6FEB?style=flat-square&logo=university&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Lahore%2C%20Punjab%2C%20PK-22C55E?style=flat-square)
-![Expected Grad](https://img.shields.io/badge/Graduating-2027-00C9A7?style=flat-square)
+![Degree](https://img.shields.io/badge/BSCS-Punjab%20University%20College%20of%20IT-00C9A7?style=flat-square&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-3.81%20%2F%204.0-22C55E?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Lahore-Pakistan-1F6FEB?style=flat-square&logoColor=white)
+![Semester](https://img.shields.io/badge/Semester-6-00C9A7?style=flat-square&logoColor=white)
 
 </div>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Smmedy06-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smmedy06)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smmedy06@github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Smmedy06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahram--munsaf-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahram-munsaf)
+[![Email](https://img.shields.io/badge/Email-smmedy06%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smmedy06@gmail.com)
 
 </div>
 
@@ -39,196 +35,221 @@
 
 ---
 
-## `$ cat about.txt`
+## About
 
-Full-Stack Developer and AI Engineer currently in Semester 6 at PUCIT, with hands-on experience building production-grade MERN applications, AI-powered systems, and agentic LLM pipelines. I bridge the gap between cutting-edge research and real-world implementation — from building CineSynth (an AI video condensation engine) to teaching DSA and COAL as a TA. I thrive at the intersection of intelligent systems and elegant interfaces.
+Computer Science undergraduate at PUCIT with a CGPA of 3.81/4.0, specializing in full-stack development, machine learning, and AI engineering. I build production-grade web applications using the MERN stack, Spring Boot, and FastAPI, and integrate LLM-powered agentic systems into real-world products. Alongside academics, I serve as a Teaching Assistant for DSA and COAL at PUCIT, where I design lab problem sets and mentor junior students.
 
-```bash
-$ profile --verbose
-
-ROLE        : Full-Stack Developer | AI Engineer | Teaching Assistant
-EXPERIENCE  : Internships in Frontend Dev & UI/UX Design
-DOMAIN      : Web Development · AI/ML · Computer Vision · Agentic Systems
-STACK       : MERN · Python · FastAPI · Flask · Spring Boot · Scikit-learn
-CURRENTLY   : Building CineSynth — AI-powered video condensation FYP
-OPEN TO     : Internships · Part-time roles · FYP collaborations
+```
+ROLE        :  Full-Stack Developer  |  AI Engineer  |  Teaching Assistant
+STACK       :  MERN  |  Spring Boot  |  FastAPI  |  Flask  |  Scikit-learn
+DOMAIN      :  Web Development  |  Agentic AI  |  Machine Learning
+CGPA        :  3.81 / 4.0  —  PUCIT, Semester 6
+OPEN TO     :  Internships in Software Engineering  |  AI / ML  |  Full-Stack
 ```
 
 ---
 
-## `$ ls tech-stack/`
+## Tech Stack
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,figma,vite,redux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,figma,vite&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,graphql,nginx&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
 
-**AI / ML / LLM**
+**AI / ML**
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
-![LangChain](https://img.shields.io/badge/LangChain-00C9A7?style=flat-square&logoColor=white)
-![Claude API](https://img.shields.io/badge/Anthropic%20Claude-191919?style=flat-square&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,sklearn&theme=dark)](https://skillicons.dev)
+![Pandas](https://img.shields.io/badge/Pandas-00C9A7?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1F6FEB?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-22C55E?style=flat-square&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-Agentic%20AI-00C9A7?style=flat-square&logoColor=white)
 
-**DevOps & Tools**
+**Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,aws&theme=dark)](https://skillicons.dev)
-
----
-
-## `$ cat specialization.md`
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-LLM%20Integration-00C9A7?style=flat-square&logoColor=white)
-![Video AI](https://img.shields.io/badge/Video%20AI-Condensation%20%26%20NLP-1F6FEB?style=flat-square&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-MERN%20%7C%20Spring%20Boot-22C55E?style=flat-square&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design%20to%20Code-00C9A7?style=flat-square&logoColor=white)
-![Teaching](https://img.shields.io/badge/TA-DSA%20%26%20COAL-1F6FEB?style=flat-square&logoColor=white)
-![Research](https://img.shields.io/badge/Research-NLP%20%26%20Video%20Summarization-22C55E?style=flat-square&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,jira&theme=dark)](https://skillicons.dev)
+![Canva](https://img.shields.io/badge/Canva-00C9A7?style=flat-square&logo=canva&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-1F6FEB?style=flat-square&logoColor=white)
+![MS Clarity](https://img.shields.io/badge/Microsoft%20Clarity-22C55E?style=flat-square&logoColor=white)
 
 ---
 
-## `$ cat expertise-table.md`
+## Specialization
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-MERN%20%7C%20Spring%20Boot%20%7C%20FastAPI-00C9A7?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-LLM%20Integration-1F6FEB?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn%20%7C%20Pandas-22C55E?style=flat-square&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%7C%20Prototyping-00C9A7?style=flat-square&logoColor=white)
+![Teaching](https://img.shields.io/badge/Teaching%20Assistant-DSA%20%26%20COAL-1F6FEB?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-22C55E?style=flat-square&logoColor=white)
+
+---
+
+## Expertise
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| 🌐 Full-Stack Web | ⭐⭐⭐⭐⭐ | MERN, Next.js, Spring Boot, REST & GraphQL APIs |
-| 🤖 AI / LLM Integration | ⭐⭐⭐⭐☆ | Agentic pipelines, Claude API, RAG systems |
-| 🎬 Video AI & NLP | ⭐⭐⭐⭐☆ | Scene segmentation, summarization, CineSynth FYP |
-| 🐍 Python Backends | ⭐⭐⭐⭐⭐ | FastAPI, Flask, Scikit-learn, data pipelines |
-| 🎨 UI/UX Design | ⭐⭐⭐⭐☆ | Figma, design systems, responsive interfaces |
-| 📚 Teaching & Mentoring | ⭐⭐⭐⭐⭐ | TA for DSA & COAL, curriculum design, lab sessions |
+| Full-Stack Web Development | Advanced | MERN, Spring Boot, REST APIs, FastAPI, Flask |
+| Agentic AI & LLM Integration | Intermediate–Advanced | Agentic pipelines, LLM APIs, narrative generation |
+| Machine Learning | Intermediate | Scikit-learn, Pandas, NumPy, Matplotlib |
+| Database Engineering | Advanced | MySQL, PostgreSQL, MongoDB, Firebase, Supabase |
+| UI/UX Design | Intermediate | Figma, wireframing, usability analysis, Hotjar |
+| Teaching & Mentoring | Advanced | DSA, COAL labs, problem sets, grading, mentoring |
 
 ---
 
-## `$ ls featured-projects/ --details`
+## Featured Projects
 
 <details open>
-<summary><b>🎬 CineSynth — AI-Powered Video Condensation System</b></summary>
+<summary><b>Retail ERP System</b></summary>
 <br>
 
-> My Final Year Project: an intelligent system that generates shortened, narratively complete clips from movies and TV episodes using multimodal AI.
+Enterprise Resource Planning system for a retail shop covering customer management, inventory, finance tracking, and employee records. Designed with a modular architecture to support scalable business operations.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python · FastAPI · Claude API · FFmpeg · AWS S3 · React |
-| **Core AI** | Scene boundary detection · Transcript-based summarization · LLM scoring |
-| **Novelty** | Hybrid local-then-cloud pipeline; outperforms SUMMER (ACL 2020) baseline |
-| **My Role** | Full system architect — literature review, pipeline design, implementation |
-| **Status** | 🟢 Active FYP — targeting 2025 submission |
+| Stack | Java · Spring Boot · SQL |
+| Architecture | Modular — designed for scalable business operations |
+| Modules | Customer management · Inventory · Finance tracking · Employee records |
+| Role | Solo developer — system design, backend, database schema |
 
-![Python](https://img.shields.io/badge/-Python-00C9A7?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-1F6FEB?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS%20S3-22C55E?style=flat-square&logo=amazons3&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude%20API-00C9A7?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00C9A7?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1F6FEB?style=flat-square&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-22C55E?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔍 Criminal Database Management System</b></summary>
+<summary><b>Story to Scenes Generator</b></summary>
 <br>
 
-> A full-featured Python application for managing criminal records with auth, CRUD, and backup.
+Agentic AI application that generates illustrated storybooks from user text prompts. Integrates LLM-based narrative generation with AI image synthesis to produce a complete visual narrative canvas.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python · SQLite · Tkinter |
-| **Features** | User authentication, record management, backup/restore |
-| **My Role** | Solo developer — architecture, UI, DB design |
-| **Status** | ⭐ 1 star on GitHub |
+| Stack | Python · FastAPI · LLM APIs |
+| AI Pipeline | Text prompt → LLM narrative generation → AI image synthesis |
+| Output | Visual narrative canvas — illustrated storybook per prompt |
+| Role | Full system — prompt engineering, backend, AI integration |
 
-![Python](https://img.shields.io/badge/-Python-00C9A7?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-1F6FEB?style=flat-square&logo=sqlite&logoColor=white)
-
-[→ View Repository](https://github.com/Smmedy06/criminal-database-management-system)
+![Python](https://img.shields.io/badge/Python-00C9A7?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F6FEB?style=flat-square&logo=fastapi&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20APIs-22C55E?style=flat-square&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⌨️ Typing Master Project</b></summary>
+<summary><b>Crime Reporting System</b></summary>
 <br>
 
-> A C++ based typing tutor application to measure and improve typing speed.
+Python desktop application with computer vision capabilities for crime reporting and incident management. Features secure authentication, role-based access, and structured data management for law enforcement use cases.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | C++ |
-| **Features** | WPM tracking, accuracy measurement, practice modes |
-| **My Role** | Solo developer |
+| Stack | Python · OpenCV · SQL |
+| Features | Secure auth · Role-based access · Incident management |
+| CV Module | Computer vision integration for evidence and image handling |
+| Repo | [criminal-database-management-system](https://github.com/Smmedy06/criminal-database-management-system) |
 
-![C++](https://img.shields.io/badge/-C++-00C9A7?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00C9A7?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F6FEB?style=flat-square&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-22C55E?style=flat-square&logo=mysql&logoColor=white)
 
-[→ View Repository](https://github.com/Smmedy06/TypingMasterProject)
+</details>
+
+<details>
+<summary><b>Student Portal</b></summary>
+<br>
+
+Full-stack web application for student management, course registration, and grade tracking. Built with the MERN stack and Supabase for backend services and authentication.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | MongoDB · Express.js · React.js · Node.js · Supabase |
+| Features | Student management · Course registration · Grade tracking |
+| Auth | Supabase authentication and backend services |
+| Role | Full-stack developer — frontend, backend, database schema |
+
+![React](https://img.shields.io/badge/React-00C9A7?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1F6FEB?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-22C55E?style=flat-square&logo=supabase&logoColor=white)
 
 </details>
 
 ---
 
-## `$ git log --experience --reverse`
+## Experience
 
 ```
-commit [Present] — Teaching Assistant @ PUCIT
-│
-├─ 📌 DSA & COAL Teaching Assistant
-├─ Teaching Data Structures & Algorithms to junior cohorts
-├─ Conducting COAL (Computer Organization & Assembly Language) labs
-├─ Designing lab tasks, quizzes, and exam papers
-├─ Providing 1-on-1 mentoring and academic support
-└─ Tags: [DSA] [Assembly] [Teaching] [Mentoring] [PUCIT]
+Dec 2024 – Mar 2025
+Frontend Developer Intern & UI/UX Designer
+Technoid Horizon — Lahore, Pakistan
 
-commit [Internship] — Frontend Developer & UI/UX Designer
-│
-├─ 📌 Frontend Development Internship
-├─ Built responsive React-based web interfaces
-├─ Designed UI flows and prototypes in Figma
-├─ Collaborated on full product design-to-code pipelines
-├─ Integrated REST APIs with modern frontend frameworks
-└─ Tags: [React] [Figma] [UI/UX] [REST APIs] [JavaScript]
+- Built responsive web interfaces with React.js across multiple client projects
+- Conducted usability analysis using Hotjar and Microsoft Clarity
+- Created wireframes and prototypes in Figma
+- Streamlined design-to-development handoff between design and engineering teams
+
+Tags: React.js | Figma | Hotjar | Microsoft Clarity | UI/UX
+
+
+2025 – 2026
+Teaching Assistant — DSA & COAL
+Punjab University College of Information Technology (PUCIT) — Lahore, Pakistan
+
+- Delivered lab sessions for Data Structures & Algorithms (DSA)
+- Conducted Computer Organization & Assembly Language (COAL) labs
+- Developed lab problem sets and solution keys for both courses
+- Graded assignments and provided academic support to junior students
+
+Tags: DSA | Assembly Language | Lab Design | Mentoring | PUCIT
 ```
 
 ---
 
-## `$ cat achievements.md`
+## Achievements
 
 <div align="center">
 
-| 🏆 Achievement | 📋 Details |
-|----------------|------------|
-| 🎓 Strong Academic Record | Top performer across Semesters 1–6 at PUCIT |
-| 🤖 FYP Accepted | CineSynth selected as Final Year Project — innovative AI video system |
-| 📚 Dual TA Role | Teaching Assistant for both DSA AND COAL simultaneously |
-| 🌐 Freelance Delivery | Shipped complete digital presence packages for real clients |
-| ⭐ GitHub Activity | 31 repositories spanning Python, C++, Web, and AI |
-| 🔬 Research Depth | Conducted deep literature review comparing against ACL 2020 paper (SUMMER) |
+| Achievement | Details |
+|-------------|---------|
+| Academic Excellence | CGPA 3.81 / 4.0 across Semesters 1–5 at PUCIT |
+| Dual Teaching Assistant | Serving as TA for both DSA and COAL simultaneously at PUCIT |
+| Industry Internship | Frontend Dev & UI/UX role at Technoid Horizon, Lahore |
+| Agentic AI Project | Built Story to Scenes Generator — end-to-end LLM + image synthesis pipeline |
+| ERP System Delivery | Designed and built a full Retail ERP with Java and Spring Boot |
 
 </div>
 
 ---
 
-## `$ cat education.md`
+## Education
 
 <div align="center">
 
-![PUCIT](https://img.shields.io/badge/BSCS-Punjab%20University%20College%20of%20Information%20Technology-00C9A7?style=for-the-badge&logoColor=white)
+![Education](https://img.shields.io/badge/BSCS-Punjab%20University%20College%20of%20Information%20Technology-00C9A7?style=for-the-badge&logoColor=white)
 
 **Bachelor of Science in Computer Science**
 Punjab University College of Information Technology (PUCIT), Lahore
-**2022 – 2027 (Expected)**  |  Currently: Semester 6  |  Strong Academic Record
+2023 – 2027 (Expected)  |  Semester 6  |  CGPA: 3.81 / 4.0
+
+Relevant Coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Software Engineering · SQA · Machine Learning · Artificial Intelligence
 
 </div>
 
 ---
 
-## `$ cat github-analytics.md`
+## GitHub Analytics
 
 <div align="center">
 
@@ -246,27 +267,27 @@ Punjab University College of Information Technology (PUCIT), Lahore
 
 ---
 
-## `$ cat trophies.md`
+## Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Smmedy06&theme=onestar&no-frame=true&column=7&margin-w=8&title_color=00C9A7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Smmedy06&theme=onestar&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## `$ cat activity-graph.md`
+## Activity Graph
 
 <div align="center">
 
-[![Smmedy06's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smmedy06&bg_color=0D1117&color=00C9A7&line=1F6FEB&point=22C55E&area=true&area_color=00C9A7&hide_border=false&border_color=00C9A7&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smmedy06&bg_color=0D1117&color=00C9A7&line=1F6FEB&point=22C55E&area=true&area_color=00C9A7&hide_border=false&border_color=00C9A7&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `$ cat summary-cards.md`
+## Summary Cards
 
 <div align="center">
 
@@ -290,7 +311,7 @@ Punjab University College of Information Technology (PUCIT), Lahore
 
 ---
 
-## `$ cat snake-animation.md`
+## Snake Animation
 
 <div align="center">
 
@@ -300,29 +321,29 @@ Punjab University College of Information Technology (PUCIT), Lahore
 
 ---
 
-## `$ cat current-focus.yaml`
+## Current Focus
 
 ```yaml
 current_focus:
   building:
-    - "CineSynth — AI video condensation system (FYP)"
-    - "Freelance client web apps (MERN + AI integrations)"
+    - "Retail ERP System — Java / Spring Boot / SQL"
+    - "Story to Scenes Generator — Agentic AI / FastAPI / LLM APIs"
 
   learning:
-    - "Advanced LLM agentic pipelines & RAG architectures"
-    - "Video AI: scene detection, multimodal summarization"
-    - "Spring Boot microservices & production deployment"
+    - "Advanced LLM integration and agentic AI pipeline design"
+    - "Spring Boot microservices and production-grade backend architecture"
+    - "Machine learning model deployment with Scikit-learn and FastAPI"
 
   exploring:
-    - "Model Context Protocol (MCP) integrations"
-    - "AWS infrastructure for AI workloads (S3, EC2, GPU)"
-    - "Research: NLP-based narrative coherence in video"
+    - "Computer vision applications with OpenCV"
+    - "Supabase and modern backend-as-a-service patterns"
+    - "Software Quality Assurance and testing methodologies"
 
   open_to:
-    - "Software Engineering Internships (Summer 2025)"
-    - "AI/ML Engineering roles"
-    - "Full-Stack Developer positions"
-    - "FYP research collaborations"
+    - "Software Engineering Internships"
+    - "Full-Stack Development roles"
+    - "AI / ML Engineering positions"
+    - "Research collaborations in AI and NLP"
 
   ta_responsibilities:
     - "DSA — Data Structures & Algorithms @ PUCIT"
@@ -331,15 +352,13 @@ current_focus:
 
 ---
 
-## `$ cat connect.md`
+## Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Smmedy06-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smmedy06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Smmedy06)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smmedy06@github)
-
-*"The best code is the code that ships and the best AI is the kind that actually helps people."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahram--munsaf-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahram-munsaf)
+[![Email](https://img.shields.io/badge/Email-smmedy06%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smmedy06@gmail.com)
 
 </div>
 
