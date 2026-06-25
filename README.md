@@ -224,16 +224,6 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 ---
 
-## Contribution Grid
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Smmedy06/Smmedy06/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## Currently
 
 ```yaml
