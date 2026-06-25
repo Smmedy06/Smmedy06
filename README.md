@@ -1,27 +1,22 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=soft&height=220&color=0:0A0F1E,50:0D1B3E,100:0A0F1E&text=Shahram%20Munsaf&fontSize=62&fontColor=E8D5B0&desc=Full-Stack%20Developer%20%E2%80%94%20AI%20Engineer%20%E2%80%94%20Teaching%20Assistant&descSize=16&descColor=8899BB&animation=fadeIn&fontAlignY=42&descAlignY=62)](https://github.com/Smmedy06)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A0F1E,40:0E1E45,80:152454,100:0A0F1E&text=Shahram%20Munsaf&fontSize=58&fontColor=E8D5B0&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%82%C2%B7%E2%80%82AI%20Engineer%20%E2%80%82%C2%B7%E2%80%82Teaching%20Assistant&descSize=17&descColor=8AA4CC&animation=fadeIn&stroke=2A3F6F&strokeWidth=1)](https://github.com/Smmedy06)
 
 </div>
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   BSCS · PUCIT Lahore · Semester 6 · CGPA 3.81 / 4.0           │
-│   Full-Stack  ·  Agentic AI  ·  Teaching Assistant              │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8AA4CC&center=true&vCenter=true&width=600&height=32&lines=BSCS+%40+PUCIT+Lahore+%E2%80%94+Semester+6+%E2%80%94+CGPA+3.81+%2F+4.0;Building+intelligent+systems+that+actually+ship.;Open+to+internships+in+SWE+%7C+AI+%7C+Full-Stack" alt="status line" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Smmedy06-E8D5B0?style=flat-square&logo=github&logoColor=0A0F1E)](https://github.com/Smmedy06)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahram--munsaf-4A7FBB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahram-munsaf)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-smmedy06@gmail.com-6DAF8A?style=flat-square&logo=gmail&logoColor=white)](mailto:smmedy06@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Smmedy06-E8D5B0?style=flat-square&logo=github&logoColor=0A0F1E)](https://github.com/Smmedy06)&ensp;[![LinkedIn](https://img.shields.io/badge/-shahram--munsaf-4A7FBB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahram-munsaf)&ensp;[![Email](https://img.shields.io/badge/-smmedy06@gmail.com-6DAF8A?style=flat-square&logo=gmail&logoColor=white)](mailto:smmedy06@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Smmedy06&color=8AA4CC&style=flat-square&label=Profile+Views)&ensp;![Followers](https://img.shields.io/github/followers/Smmedy06?style=flat-square&color=4A7FBB&logo=github&label=Followers)
 
 </div>
 
@@ -55,8 +50,8 @@ CS undergraduate at PUCIT building production-grade systems across the full stac
 
 [![Skills](https://skillicons.dev/icons?i=python,sklearn&theme=dark)](https://skillicons.dev)
 &nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-0A0F1E?style=flat-square&labelColor=E8D5B0&color=0D1B3E&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0D1B3E?style=flat-square&labelColor=4A7FBB&color=0A0F1E&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0D1B3E?style=flat-square&logoColor=E8D5B0)
+![NumPy](https://img.shields.io/badge/NumPy-0D1B3E?style=flat-square&logoColor=4A7FBB)
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-Agentic%20AI-6DAF8A?style=flat-square&logoColor=white)
 
 **Tools**
@@ -188,15 +183,15 @@ Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Sy
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Smmedy06&show_icons=true&theme=transparent&title_color=E8D5B0&icon_color=6DAF8A&text_color=8899BB&bg_color=0D1117&border_color=1E2D4E&include_all_commits=true&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Smmedy06&show_icons=true&theme=transparent&title_color=E8D5B0&icon_color=6DAF8A&text_color=8AA4CC&bg_color=0D1117&border_color=1E2D4E&include_all_commits=true&count_private=true" />
 
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smmedy06&theme=transparent&ring=E8D5B0&fire=6DAF8A&currStreakLabel=E8D5B0&sideLabels=8899BB&dates=4A6080&background=0D1117&border=1E2D4E&currStreakNum=ffffff&sideNums=4A7FBB" />
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smmedy06&theme=transparent&ring=E8D5B0&fire=6DAF8A&currStreakLabel=E8D5B0&sideLabels=8AA4CC&dates=4A6080&background=0D1117&border=1E2D4E&currStreakNum=ffffff&sideNums=4A7FBB" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smmedy06&layout=compact&theme=transparent&title_color=E8D5B0&text_color=8899BB&bg_color=0D1117&border_color=1E2D4E&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smmedy06&layout=compact&theme=transparent&title_color=E8D5B0&text_color=8AA4CC&bg_color=0D1117&border_color=1E2D4E&langs_count=8" />
 
 </div>
 
@@ -262,6 +257,6 @@ open_to:
 
 <div align="center">
 
-[![footer](https://capsule-render.vercel.app/api?type=soft&height=80&color=0:0A0F1E,100:0D1B3E&section=footer)](https://github.com/Smmedy06)
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A0F1E,40:0E1E45,100:0A0F1E&section=footer)](https://github.com/Smmedy06)
 
 </div>
